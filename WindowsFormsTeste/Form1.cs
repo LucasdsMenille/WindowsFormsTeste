@@ -20,8 +20,8 @@ namespace WindowsFormsTeste
         private void Form1_Load(object sender, EventArgs e)
         {
 
-        }
 
+        }
         private void btnSomar_CLick(object sender, EventArgs e)
         {
             //Entrada de Dados
@@ -50,4 +50,6 @@ namespace WindowsFormsTeste
 
         }
     }
+
+
 }

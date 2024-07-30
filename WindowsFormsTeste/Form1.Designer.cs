@@ -1,4 +1,6 @@
-﻿namespace WindowsFormsTeste
+﻿using System;
+
+namespace WindowsFormsTeste
 {
     partial class Form1
     {
@@ -19,6 +21,8 @@
             }
             base.Dispose(disposing);
         }
+
+
 
         #region Código gerado pelo Windows Form Designer
 
